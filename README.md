@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=pasindu508" alt="pasindu508" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/pasindu matheesha" target="blank"><img src="https://img.shields.io/twitter/follow/pasindu matheesha?logo=twitter&style=for-the-badge" alt="pasindu matheesha" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Pasindu508?t=139TbErBOQD95hmTtavdLw&s=09" target="blank"><img src="https://img.shields.io/twitter/follow/pasindu matheesha?logo=twitter&style=for-the-badge" alt="pasindu matheesha" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Pasindu508](https://github.com/Pasindu508)
 
