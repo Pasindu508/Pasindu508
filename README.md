@@ -29,7 +29,7 @@
 <iframe src="https://app.databox.com/datawall/6fedfdb794524f8966374655d4a0184e062a5b6bc?i" width="640" height="405" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 
-![Metrics](https://raw.githubusercontent.com/Pasindu508/Pasindu508/github-metrics/github-metrics.svg)
+![Metrics](https://app.databox.com/datawall/6fedfdb794524f8966374655d4a0184e062a5b6bc?i)
 ![Most used languages](https://raw.githubusercontent.com/Pasindu508/Pasindu508/github-metrics/language.svg)
 ![Notable contributions](https://raw.githubusercontent.com/Pasindu508/Pasindu508/github-metrics/notable.svg)
 ![Achievements](https://raw.githubusercontent.com/Pasindu508/Pasindu508/github-metrics/achievements.svg)
