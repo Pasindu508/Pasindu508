@@ -15,6 +15,8 @@
        src="https://api.daily.dev/devcards/294ea1a432f34fc4aeefa36f412b763b.png?r=j3e" alt="Pasindu Matheesha's Dev Card"/></a>
 </div>
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pasindu508&theme=radical)
+
 ## I am Pasindu Matheesha
 
 <BR><BR>
