@@ -26,7 +26,7 @@
 - Developer at [The National Archives of Norway](https://www.arkivverket.no/en)
 - Loves a freshly brewed cup of coffee
 
-https://app.databox.com/datawall/2cb85871d9ea04b09abbf8a1e1605191062a5b11d
+<div style="padding:63% 0 0 0; position:relative;"><iframe src="https://app.databox.com/datawall/6fedfdb794524f8966374655d4a0184e062a5b6bc?i" style="position:absolute; top:0; left:0; width:100%; height:100%;" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
 
 ![Metrics](https://raw.githubusercontent.com/Pasindu508/Pasindu508/github-metrics/github-metrics.svg)
 ![Most used languages](https://raw.githubusercontent.com/Pasindu508/Pasindu508/github-metrics/language.svg)
