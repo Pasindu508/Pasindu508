@@ -26,7 +26,7 @@
 - Developer at [The National Archives of Norway](https://www.arkivverket.no/en)
 - Loves a freshly brewed cup of coffee
 
-<iframe src="https://app.databox.com/datawall/6fedfdb794524f8966374655d4a0184e062a5b6bc?i" width="640" height="405" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<a src="https://app.databox.com/datawall/6fedfdb794524f8966374655d4a0184e062a5b6bc?i" width="640" height="405" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></a>
 
 
 ![Metrics](https://app.databox.com/datawall/6fedfdb794524f8966374655d4a0184e062a5b6bc?i)
