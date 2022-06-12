@@ -1,7 +1,7 @@
 # Hi there 👋
 
 <div align="left">
-  <a href="https://twitter.com/omBratteng">
+  <a href="https://twitter.com/CodingGuide508">
     <img
       src="https://img.shields.io/twitter/follow/omBratteng?label=Twitter&logo=twitter&style=flat-square&color=1da1f2&logoColor=ffffff"
       alt="Twitter"
@@ -26,10 +26,4 @@
 - Developer at [The National Archives of Norway](https://www.arkivverket.no/en)
 - Loves a freshly brewed cup of coffee
 
-<a src="https://app.databox.com/datawall/6fedfdb794524f8966374655d4a0184e062a5b6bc?i" width="640" height="405" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></a>
 
-
-![Metrics](https://app.databox.com/datawall/6fedfdb794524f8966374655d4a0184e062a5b6bc?i)
-![Most used languages](https://raw.githubusercontent.com/Pasindu508/Pasindu508/github-metrics/language.svg)
-![Notable contributions](https://raw.githubusercontent.com/Pasindu508/Pasindu508/github-metrics/notable.svg)
-![Achievements](https://raw.githubusercontent.com/Pasindu508/Pasindu508/github-metrics/achievements.svg)
