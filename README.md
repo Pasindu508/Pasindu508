@@ -14,13 +14,11 @@
     />
   </a>
 
-  <a href="https://api.daily.dev/get?r=omBratteng" target="_blank">
-    <img
-      width="256"
-      align="right"
-      src="https://raw.githubusercontent.com/omBratteng/omBratteng/devcard/devcard.svg"
-    />
-  </a>
+  <a href="https://app.daily.dev/Pasindu" target="_blank">
+      <img
+       width="256"
+       align="right"
+       src="https://api.daily.dev/devcards/294ea1a432f34fc4aeefa36f412b763b.png?r=j3e" alt="Pasindu Matheesha's Dev Card"/></a>
 </div>
 
 ## I am Ole-Martin Bratteng
