@@ -21,7 +21,7 @@
        src="https://api.daily.dev/devcards/294ea1a432f34fc4aeefa36f412b763b.png?r=j3e" alt="Pasindu Matheesha's Dev Card"/></a>
 </div>
 
-## I am Ole-Martin Bratteng
+## I am Pasindu Matheesha
 
 - Developer at [The National Archives of Norway](https://www.arkivverket.no/en)
 - Loves a freshly brewed cup of coffee
