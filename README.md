@@ -3,9 +3,6 @@
 <h1 align="center">Hi 👋, I'm Pasindu Matheesha</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 <a href="https://app.daily.dev/Pasindu"><img src="https://api.daily.dev/devcards/294ea1a432f34fc4aeefa36f412b763b.png?r=pgz" width="400" alt="Pasindu Matheesha's Dev Card"/></a>
-
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/214929/screenshots/4366947/media/b1f35b3c0416b23663b86d0aea416cc5.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pasindu508&label=Profile%20views&color=0e75b6&style=flat" alt="pasindu508" /> </p>
 
 <p align="left"> <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=pasindu508" alt="pasindu508" /></a> </p>
