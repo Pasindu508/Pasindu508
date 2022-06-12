@@ -17,7 +17,5 @@
 
 ## I am Pasindu Matheesha
 
-- Developer at [The National Archives of Norway](https://www.arkivverket.no/en)
-- Loves a freshly brewed cup of coffee
 
 
