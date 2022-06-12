@@ -19,4 +19,5 @@
 
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?Pasindu508=&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?Pasindu508/Pasindu508=&theme=radical)
+
