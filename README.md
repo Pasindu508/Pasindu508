@@ -2,6 +2,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://github.com/Pasindu508)
 <h1 align="center">Hi 👋, I'm Pasindu Matheesha</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+<a href="https://app.daily.dev/Pasindu"><img src="https://api.daily.dev/devcards/294ea1a432f34fc4aeefa36f412b763b.png?r=pgz" width="400" alt="Pasindu Matheesha's Dev Card"/></a>
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/214929/screenshots/4366947/media/b1f35b3c0416b23663b86d0aea416cc5.gif">
 
